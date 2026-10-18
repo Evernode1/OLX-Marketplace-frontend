@@ -1,0 +1,11 @@
+networks:
+  default: studionet
+
+  studionet:
+    # Pre-configured. The accounts that run these tests must already hold GEN (see tests/integration/README).
+
+paths:
+  contracts: "contracts"
+  artifacts: "artifacts"
+
+environment: .env

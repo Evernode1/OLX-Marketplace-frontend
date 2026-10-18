@@ -1,0 +1,14 @@
+{
+  "contract": "Marketplace",
+  "version": "0.1",
+  "network": "studionet",
+  "source_path": "contracts/Marketplace.py",
+  "source_sha256": "57b5896956f59368c7da039eb1cc031d53d3b76b6fd757ac1a54d71b8f29859e",
+  "constructor_args": [],
+  "deployed": false,
+  "address": null,
+  "deployed_source_sha256": null,
+  "deployed_at": null,
+  "deployed_by": null,
+  "notes": "Not yet deployed. Fill address, deployed_source_sha256 and deployed_at only after deploying exactly this source file."
+}
